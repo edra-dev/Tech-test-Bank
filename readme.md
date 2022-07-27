@@ -20,3 +20,9 @@ date || credit || debit || balance
 10/01/2023 || 1000.00 || || 1000.00
 
 ---
+
+Plan:
+* Begin by ignoring date and focusing on building a simple calculator.
+* Use a class with methods credit, debit and balance.
+* Use an array for each interaction.
+* Add in date element.
